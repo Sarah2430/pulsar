@@ -5,7 +5,7 @@ export const company = {
   name: 'Pulsar S.A.R.L.',
   tagline: 'Advanced IT engineering for critical systems',
   description:
-    'Pulsar S.A.R.L. is a Lebanese technology company founded in 2025, headquartered in Khaldeh, Mount Lebanon, and registered with the Commercial Register of Baabda under No. 2077982. Pulsar develops software and technology products under its own registered brand. It delivers advanced IT engineering to organisations that run critical systems in Lebanon and abroad, and specialises in critical-incident response, available around the clock.',
+    'Pulsar S.A.R.L. is a Lebanese technology company founded in 2025, headquartered in Khaldeh, Mount Lebanon. Pulsar develops software and technology products under its own registered brand. It delivers advanced IT engineering to organisations that run critical systems in Lebanon and abroad, and specialises in critical-incident response, available around the clock.',
   email: 'info@pulsar-lb.com',
   phone: '+961 3 394 571',
   phoneLink: '+9613394571',
