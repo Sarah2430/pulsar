@@ -11,9 +11,6 @@ function About() {
           <p className="about__lead">{company.description}</p>
           <div className="about__meta">
             <span>
-              <Icon name="building" size={18} /> Founded 2025
-            </span>
-            <span>
               <Icon name="pin" size={18} /> Khaldeh, Mount Lebanon
             </span>
           </div>
