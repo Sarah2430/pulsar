@@ -44,7 +44,6 @@ function Footer() {
 
       <div className="container footer__bottom">
         <span>© {year} {company.name} All rights reserved.</span>
-        <span>Commercial Register of Baabda — No. 2077982</span>
       </div>
     </footer>
   )
