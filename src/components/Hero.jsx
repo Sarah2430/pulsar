@@ -14,8 +14,7 @@ function Hero() {
           </h1>
           <p className="hero__lead">
             Pulsar delivers advanced IT engineering to organisations in Lebanon and abroad, from
-            database and server recovery to secure networks and custom software, with
-            critical-incident response available around the clock.
+            database and server recovery to secure networks and custom software.
           </p>
           <div className="hero__actions">
             <a href="#services" className="btn btn--primary">
