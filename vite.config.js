@@ -4,6 +4,7 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // GitHub Pages serves the site from https://sarah2430.github.io/pulsar/
-  base: '/pulsar/',
+  // Relative paths, so the same build works at the root of pulsar-lb.com
+  // and under https://sarah2430.github.io/pulsar/
+  base: './',
 })
