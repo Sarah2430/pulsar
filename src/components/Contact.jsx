@@ -36,7 +36,7 @@ function Contact() {
   }
 
   return (
-    <section className="section" id="contact">
+    <section className="section section--tint" id="contact">
       <div className="container contact">
         <div className="contact__info reveal">
           <p className="eyebrow">Contact</p>

@@ -5,7 +5,6 @@ import About from './components/About'
 import Services from './components/Services'
 import IncidentBanner from './components/IncidentBanner'
 import Activities from './components/Activities'
-import CompanyDetails from './components/CompanyDetails'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import './App.css'
@@ -39,7 +38,6 @@ function App() {
         <Services />
         <IncidentBanner />
         <Activities />
-        <CompanyDetails />
         <Contact />
       </main>
       <Footer />

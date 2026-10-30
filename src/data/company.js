@@ -141,17 +141,9 @@ export const activities = [
   },
 ]
 
-export const details = [
-  { label: 'Legal form', value: 'Limited liability company (S.A.R.L.) under Lebanese law' },
-  { label: 'Registration', value: 'Commercial Register of Baabda, Mount Lebanon — No. 2077982' },
-  { label: 'Founded', value: '2025' },
-  { label: 'Head office', value: company.address },
-]
-
 export const navLinks = [
   { href: '#about', label: 'About' },
   { href: '#services', label: 'Services' },
   { href: '#activities', label: 'Activities' },
-  { href: '#company', label: 'Company' },
   { href: '#contact', label: 'Contact' },
 ]
