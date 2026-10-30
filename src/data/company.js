@@ -142,6 +142,7 @@ export const activities = [
 ]
 
 export const navLinks = [
+  { href: '#top', label: 'Home' },
   { href: '#about', label: 'About' },
   { href: '#services', label: 'Services' },
   { href: '#activities', label: 'Activities' },
